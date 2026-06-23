@@ -18,6 +18,6 @@ What I enjoy most is taking vague friction points and turning them into somethin
 **Agent Harness**
 - [pi-web-access](https://github.com/nathanpt/pi-web-access)
 - [pi-onboard](https://github.com/nathanpt/pi-onboard)
-- 
+
 **Finance**
 - [fin3](https://github.com/nathanpt/fin3)
