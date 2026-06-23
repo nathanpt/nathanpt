@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://github.com/nathanpt/nathanpt/blob/main/assets/cat-header.png" alt="Nathan's workspace" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 8px;" />
-</div>
-
-<br>
-
-<div align="center">
   <h1>Hi, I'm Nathan</h1>
   <p><strong>Building practical AI agents, harnesses, and tools that make work feel smoother.</strong></p>
 </div>
