@@ -15,7 +15,8 @@ I currently work in a technical, cross-functional environment and have spent a l
 What I enjoy most is taking vague friction points and turning them into something concrete: a better workflow, a useful tool, a cleaner system, or a more scalable process.
 
 ## Noteworthy Projects I Am Currently Working On
-### Agent Harness
+**Agent Harness**
 - [pi-web-access](https://github.com/nathanpt/pi-web-access)
-### Finance
+
+**Finance**
 - [fin3](https://github.com/nathanpt/fin3)
