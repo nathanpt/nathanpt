@@ -1,25 +1,21 @@
 <div align="center">
   <h1>Hi, I'm Nathan</h1>
-  <p><strong>Building practical AI agents, harnesses, and tools that make work feel smoother.</strong></p>
+  <p><strong>Supply Chain Analyst by day. Builder of practical AI tools and workflows by night.</strong></p>
 </div>
 
 ---
 
-I'm a technical operator and builder focused on AI-assisted development, lightweight automation, and practical tooling that improves real workflows. Right now I'm especially interested in coding-agent workflows, harness engineering, developer tooling, and building systems that are lean, observable, and actually usable day-to-day.
+I'm a Supply Chain Analyst at a Fortune 100 company with a passion for turning operational friction into better systems. I focus on AI-assisted development, lightweight automation, and practical tooling that delivers real value in complex environments.
+
+Right now I'm especially interested in coding-agent workflows, harness engineering, and developer tooling that stays lean, observable, and usable in day-to-day work.
 
 ### What I'm Focused On Right Now
 - Refining AI-agent workflows for real software development
 - Exploring lightweight harness engineering and developer tooling
 - Shipping public-facing projects that improve coding, web access, and automation workflows
 
-### Currently Building with Pi
-- **pi-web-access** — Practical web interaction layer for agents
-- **pi-onboard** — Smoother onboarding and context management
-
-### Background
-I work in a technical, cross-functional environment and spend a lot of time moving between execution, systems thinking, and practical problem-solving. I get the most satisfaction from taking vague friction points and turning them into something concrete: a better workflow, a useful tool, a cleaner system, or a more scalable process.
-
 ### Notable Projects
+
 **Agent Harness** — My current obsession
 - [pi-web-access](https://github.com/nathanpt/pi-web-access) — Practical web interaction layer for agents
 - [pi-onboard](https://github.com/nathanpt/pi-onboard) — Smoother onboarding and context management
@@ -27,8 +23,11 @@ I work in a technical, cross-functional environment and spend a lot of time movi
 **Finance**
 - [fin3](https://github.com/nathanpt/fin3) — Declarative financial time-series data fetching, storage, and retrieval
 
+### Background
+In my day job I operate at the intersection of data, processes, and cross-functional execution. This has sharpened my ability to identify friction points in complex systems and turn them into concrete improvements — whether that's a better workflow, a useful internal tool, or a more scalable process. My personal projects extend that same mindset into AI and automation.
+
 ---
 
-Feel free to explore the repositories below or reach out if you're working on similar problems. Always happy to discuss agent harnesses, practical automation, or dev tooling.
+Feel free to explore the repositories below. I'm always interested in connecting with others working on practical AI applications, automation, or tooling that bridges operational needs and technology.
 
 *Updated June 2026*
