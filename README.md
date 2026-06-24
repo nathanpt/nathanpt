@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi, I'm Nathan</h1>
-  <p><strong>Supply Chain Analyst by day. Builder of practical AI tools and workflows by night.</strong></p>
 </div>
 
 ---
