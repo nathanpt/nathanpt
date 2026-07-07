@@ -12,6 +12,7 @@ My focus is on building coding-agent workflows, harnesses, and developer tools t
 ### Notable Projects
 
 **Agent Harness**
+- [zero-langfuse](https://github.com/nathanpt/zero-langfuse) — Langfuse observability for Zero
 - [omp-langfuse](https://github.com/nathanpt/omp-langfuse) — Langfuse observability for oh-my-pi
 - [pi-web-access](https://github.com/nathanpt/pi-web-access) — Practical web interaction layer for agents
 - [pi-onboard](https://github.com/nathanpt/pi-onboard) — Smoother onboarding and context management
