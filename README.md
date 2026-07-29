@@ -16,6 +16,9 @@ My focus is on building coding-agent workflows, harnesses, and developer tools t
 - [omp-langfuse](https://github.com/nathanpt/omp-langfuse) — Langfuse observability for oh-my-pi
 - [pi-web-access](https://github.com/nathanpt/pi-web-access) — Practical web interaction layer for agents
 
+**Published Skills**
+- [agent-skills](https://github.com/nathanpt/agent-skills) — Portable, evidence-driven skills for AI coding agents, beginning with `harness-bootstrap`.
+
 **Finance**
 - fin3 - Declarative financial time-series data fetching, storage, and retrieval
   - [Repository](https://github.com/nathanpt/fin3)
